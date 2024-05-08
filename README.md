@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-¡Hola! 👋 Soy Josué, un apasionado Ingeniero en Sistemas con un enfoque especializado en el desarrollo web utilizando Python con Django y React. Aunque siempre me gusta explorar otras tecnologías.
+¡Hola! 👋 Soy Josué, un apasionado Ingeniero en Sistemas con un enfoque especializado en el desarrollo web utilizando Laravel y Django. Aunque siempre me gusta explorar otras tecnologías.
 
 
 ## 🌐 Redes:
